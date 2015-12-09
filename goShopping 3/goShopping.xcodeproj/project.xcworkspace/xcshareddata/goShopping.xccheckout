@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DBC5E38C-D2AC-4471-B285-C8778CC2A06E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>goShopping</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B5A23AC5-8D3B-4EA6-A764-FC7A7C9ABAF2</key>
+		<string>https://github.com/328410948/bobo001_Project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>goShopping 3/goShopping.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B5A23AC5-8D3B-4EA6-A764-FC7A7C9ABAF2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/328410948/bobo001_Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B5A23AC5-8D3B-4EA6-A764-FC7A7C9ABAF2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B5A23AC5-8D3B-4EA6-A764-FC7A7C9ABAF2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bobo001_Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
